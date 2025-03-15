@@ -2,6 +2,8 @@
 
 *.txt
 
+machete.txt 
+
 /node_modules
 
 
