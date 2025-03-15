@@ -1,0 +1,10 @@
+
+
+1. Ejecutar el comando npm init para crear una config de node
+
+
+
+2. Recordar guardar cambios
+
+
+
